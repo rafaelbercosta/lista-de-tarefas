@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/rafaelbercosta/lista-de-tarefas/static/css/main.cbdd1b31.css",
+    "main.js": "/rafaelbercosta/lista-de-tarefas/static/js/main.fbb76f8a.js",
+    "static/js/787.ace4cc29.chunk.js": "/rafaelbercosta/lista-de-tarefas/static/js/787.ace4cc29.chunk.js",
+    "static/media/pencil.png": "/rafaelbercosta/lista-de-tarefas/static/media/pencil.a68d0b026ad4334f1671.png",
+    "static/media/login.png": "/rafaelbercosta/lista-de-tarefas/static/media/login.7261a7ded1e63846d417.png",
+    "static/media/hello.png": "/rafaelbercosta/lista-de-tarefas/static/media/hello.3c96b92706d354ce8482.png",
+    "index.html": "/rafaelbercosta/lista-de-tarefas/index.html",
+    "main.cbdd1b31.css.map": "/rafaelbercosta/lista-de-tarefas/static/css/main.cbdd1b31.css.map",
+    "main.fbb76f8a.js.map": "/rafaelbercosta/lista-de-tarefas/static/js/main.fbb76f8a.js.map",
+    "787.ace4cc29.chunk.js.map": "/rafaelbercosta/lista-de-tarefas/static/js/787.ace4cc29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbdd1b31.css",
+    "static/js/main.fbb76f8a.js"
+  ]
+}
